@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Meter Reader",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
